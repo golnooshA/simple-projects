@@ -55,7 +55,7 @@ class _CalculatorViewState extends State<CalculatorView> {
       backgroundColor: DesignColor.background,
       appBar: AppBar(
         title: const Text('Calculator'),
-        backgroundColor: Colors.yellow,
+        backgroundColor: DesignColor.blue,
       ),
       body: Column(
         children: [
