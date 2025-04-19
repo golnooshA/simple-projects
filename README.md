@@ -13,10 +13,10 @@ This repository contains two beginner-level Flutter projects built using the Dar
 ## 📱 Screenshots
 
 ### Calculator App
-<img src="calculator.png" alt="Calculator Screenshot" width="300"/>
+<img src="screenshot/calculator.png" alt="Calculator Screenshot" width="300"/>
 
 ### To-Do List App
-<img src="todo_list.png" alt="To-Do List Screenshot" width="300"/>
+<img src="screenshot/todo_list.png" alt="To-Do List Screenshot" width="300"/>
 
 ---
 
