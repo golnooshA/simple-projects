@@ -1,16 +1,32 @@
-# calculator
+# Simple Flutter Projects
 
-A new Flutter project.
+This repository contains two beginner-level Flutter projects built using the Dart programming language:
 
-## Getting Started
+1. **Calculator App**  
+   A basic calculator with a clean UI that supports standard arithmetic operations.
 
-This project is a starting point for a Flutter application.
+2. **To-Do List App**  
+   A simple task manager that allows users to add, delete, and mark tasks using a fun emoji-based system.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Calculator App
+![Calculator Screenshot](C:\Users\golno\AndroidStudioProjects\calculator\calculator.png)
+
+### To-Do List App
+![To-Do List Screenshot](C:\Users\golno\AndroidStudioProjects\calculator\todo_list.png)
+
+---
+
+## 🚀 Technologies Used
+- Flutter
+- Dart
+- Material Design
+- Basic State Management (`setState`)
+
+---
+
+## 📂 Project Structure
+Each project is in its own folder for easy navigation and understanding.
