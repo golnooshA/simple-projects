@@ -11,4 +11,11 @@ class DesignColor {
   static const Color containerColor = Color(0xFFFFFFFF);
   static const Color background = Color(0xFFe0f0ea);
 
+
+  static const Color strongOrange = Color(0xFFf56038);
+  static const Color strongBlue = Color(0xFF3a9efd);
+  static const Color strongViolet = Color(0xFF64379f);
+  static const Color green = Color(0xFF00A86B);
+
+
 }
