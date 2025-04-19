@@ -25,8 +25,3 @@ This repository contains two beginner-level Flutter projects built using the Dar
 - Dart
 - Material Design
 - Basic State Management (`setState`)
-
----
-
-## 📂 Project Structure
-Each project is in its own folder for easy navigation and understanding.
