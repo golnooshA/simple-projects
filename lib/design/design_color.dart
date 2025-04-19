@@ -16,6 +16,9 @@ class DesignColor {
   static const Color strongBlue = Color(0xFF3a9efd);
   static const Color strongViolet = Color(0xFF64379f);
   static const Color green = Color(0xFF00A86B);
+  static const Color pink = Color(0xFFf5487f);
+  static const Color lightBlue = Color(0xFFe3f6f5);
+  static const Color darkDarkBlue = Color(0xFF122c91);
 
 
 }
