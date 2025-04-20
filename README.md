@@ -25,6 +25,6 @@ This repository contains two beginner-level Flutter projects built using the Dar
 <img src="screenshot/todo_list.png" alt="To-Do List Screenshot" width="200"/>
 
 ### Counter App
-<img src="screenshot/counter.png" alt="To-Do List Screenshot" width="200"/>
+<img src="screenshot/counter.png" alt="Counter Screenshot" width="200"/>
 
 
