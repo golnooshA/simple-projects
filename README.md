@@ -27,10 +27,4 @@ This repository contains two beginner-level Flutter projects built using the Dar
 ### Counter App
 <img src="screenshot/counter.png" alt="To-Do List Screenshot" width="200"/>
 
----
 
-## 🚀 Technologies Used
-- Flutter
-- Dart
-- Material Design
-- Basic State Management (`setState`)
