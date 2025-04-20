@@ -1,7 +1,7 @@
 import 'package:calculator/design/design_color.dart';
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
-import 'component/round_button.dart';
+import '../component/round_button.dart';
 
 class CalculatorView extends StatefulWidget {
   const CalculatorView({super.key});

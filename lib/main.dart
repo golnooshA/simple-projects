@@ -1,12 +1,26 @@
-import 'todo_list.dart';
+import 'package:calculator/page/counter.dart';
+import 'package:provider/provider.dart';
+import 'data/counter_model.dart';
 import 'package:flutter/material.dart';
-import 'calculator.dart';
 
 void main() {
+  // runApp(
+  //   MaterialApp(
+  //     debugShowCheckedModeBanner: false,
+  //     home: const CalculatorView(),
+  //   ),
+  // );
+
   runApp(
-    MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: const CalculatorView(),
-    ),
+      ChangeNotifierProvider(create: (_) => CounterModel(), child: MaterialApp(
+        title: 'Advanced Counter',
+        theme: ThemeData(
+          fontFamily: 'Roboto',
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+          useMaterial3: true,
+        ),
+        home: const Counter(),
+      ))
+
   );
 }
